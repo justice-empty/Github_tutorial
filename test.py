@@ -1,7 +1,7 @@
-print("깃허브 테스트")
+print("Github test")
 
-print("두번째 커밋")
+print("Second test commit")
 
-print("깃허브 레포지터리 이름변경")
+print("Repositary name change")
 
 print("Push error test")
